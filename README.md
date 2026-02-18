@@ -2,9 +2,26 @@
 
 A Windows 11-compatible keylogger designed to exfiltrate system metadata and real-time keyboard data via Discord webhooks.
 
+## ⚠️ Legal Disclaimer
+
+**THIS PROJECT IS FOR EDUCATIONAL AND DEMONSTRATION PURPOSES ONLY.**
+
+This keylogger is provided solely for learning purposes and authorized security research on systems you own or have explicit permission to test. 
+
+**THE AUTHOR DOES NOT SUPPORT OR CONDONE:**
+- Unauthorized access to computer systems
+- Spying on individuals without consent
+- Theft of data or intellectual property
+- Any illegal or malicious use of this code
+
+**BY USING THIS PROJECT, YOU AGREE:**
+- You will only use this on systems you own or have explicit written permission to test
+- You take full legal responsibility for your actions
+- You understand the legal consequences of misuse
+
 ## Purpose
 
-This keylogger captures real-time keyboard input and system information, sending them through Discord webhooks. It is designed to operate discreetly in the background while collecting comprehensive system metadata and keystroke logs.
+This keylogger captures real-time keyboard input and system information, sending them through Discord webhooks. It is designed to operate discreetly in the background while collecting comprehensive system metadata and keystroke logs. This project is intended for educational purposes to understand how keystroke logging and data exfiltration work.
 
 ## Key Features
 
